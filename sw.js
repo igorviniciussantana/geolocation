@@ -1,6 +1,6 @@
 let cacheName = "geolocation_v1";
 let filesToCache = ["/", "/index.html", 
-                "/css/style.css", "/js/main.js" ];
+                "/styles/globals.css", "/scripts/main.js" ];
 
 /* inicializando a service worker e fazendo o 
 download do conteúdo da aplicação */
