@@ -1,0 +1,14 @@
+{
+  "name": "geolocation",
+  "version": "1.0.0",
+  "description": "PWA para capturar geolocalização",
+  "main": "index.html",
+  "scripts": {
+    "serve": "serve ."
+  },
+  "author": "igor santana",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.1.1"
+  }
+}
